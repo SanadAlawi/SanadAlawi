@@ -11,3 +11,5 @@
 - **Databases:** MongoDB, MySQL
 - **Data Science & Machine Learning:** Python, Jupyter Notebook, Pandas, Scikit-Learn
 - **Tools:** Git, GitHub, VS Code, Trello
+
+![snake gif](https://github.com/SanadAlawi/SanadAlawi/blob/output/github-snake-dark.svg)

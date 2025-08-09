@@ -6,8 +6,8 @@
 
 ### 🛠️ **Tech Skills**
 
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, NextJS, JavaScript, HTML, CSS, Tailwind
+- **Backend:** Node.js, NestJs, Express.js
 - **Databases:** MongoDB, MySQL
 - **Data Science & Machine Learning:** Python, Jupyter Notebook, Pandas, Scikit-Learn
 - **Tools:** Git, GitHub, VS Code, Trello

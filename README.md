@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanad Alawi!
 
-**🌐 junior Frontend Developer | 🧠 Data Science Enthusiast**
+**🌐 Frontend Developer | 🧠 Data Science Enthusiast**
 
 ---
 
